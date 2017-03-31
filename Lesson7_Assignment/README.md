@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+3/31/2017
 
 ### Student Name:  
-(First and Last Name)
+Alandra Brown
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+I learned how to use different methods to create a functioning app to displaqy information.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://alandrabrown.github.io/lesson7_jquery/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to use the JavaScript Console Pane.
+2. I learned how to use the Animate method.
+3. I learned how to use the Hover function.
